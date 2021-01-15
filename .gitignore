@@ -1,0 +1,6 @@
+bin/
+obj/
+PublishProfiles/
+.vs/
+*.user
+log/
